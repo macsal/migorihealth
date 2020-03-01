@@ -1,0 +1,13 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+
+Login Details for admin : admin
+              Password :hack@12345
+Login Details for User: waregaochi@gmail.com
+                Password :waregaochi@gmail.com
+Login Details for Nurse: waregarongo@gmail.com 
+                Password : waregarongo@gmail.com
+
+
+1200
+450

@@ -1,0 +1,11 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+
+Login Details for admin : admin@kaimosi.com
+              Password :admin123
+Login Details for Patient: patient@kaimosi.com 
+                Password :patient123
+Login Details for Doctor: doctor@kaimosi.com 
+                Password : doctor123
+
+
